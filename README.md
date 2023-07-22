@@ -1,11 +1,9 @@
 # Kashif Kamran 
-##[Who AM I ?](https://kashifkamran.netlify.app/)
+## [Who AM I ?](https://kashifkamran.netlify.app/)
 
----
-> **"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill**
+
 
 Hey there👋, I'm Kashif Kamran - an innovative software developer with a genuine passion for writing clean code and a never-ending thirst for learning. I believe that technology holds the key to creating impactful solutions that can shape a better future. And that's where you come in! Let's collaborate and code together, leveraging your unique skills and ideas, to make a real difference. Together, we can bring our collective knowledge to the table and create something extraordinary. Let's build a brighter tomorrow together!
-
 
 
 ## 📚 Education
