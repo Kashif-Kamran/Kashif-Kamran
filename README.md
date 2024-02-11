@@ -9,10 +9,6 @@ Hey there👋, I'm Kashif Kamran - an innovative software developer with a genui
 ## 📚 Education
 - Bachelor of Science (Computer Science) - 2023 
   - National University of Computer and Emerging Sciences, Islamabad
-- F.Sc (Pre-Engineering) - 2019
-  - Khawaja Fareed Govt. College, Rahimyar Khan
-- Matriculation (Science) - 2015
-  - Govt. Comprehensive School, Rahimyar Khan
 
 ## 💼 Skills
 - Frontend: React, JavaFX, Thyme-leaf, Ajax
