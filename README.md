@@ -25,7 +25,7 @@
 </div>
 
 ### 🚀 Welcome to my GitHub!
-I'm a seasoned software engineer with over a year of hands-on experience in crafting robust solutions and optimizing performance. My journey in software development has been driven by a passion for mastering object-oriented programming, data structures, and algorithms.
+I'm a seasoned software engineer with over 3+ years of hands-on experience in crafting robust solutions and optimizing performance. My journey in software development has been driven by a passion for mastering object-oriented programming, data structures, and algorithms.
 
 ---
 
